@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, sou Acelino Domingos Correia Filho 👋
 
-<!--
-**acelinodomingos/acelinodomingos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gestor público aposentado, com trajetória de anos na gestão de infraestrutura crítica em saúde — gases medicinais e redes criogênicas na área hospitalar (INCA/RJ, Ministério da Saúde). Hoje transformo essa vivência de campo em projetos de tecnologia aplicada à saúde pública.
 
-Here are some ideas to get you started:
+## 🚀 Projeto em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [AI-CryoDiag](https://github.com/acelinodomingos/AI-CryoDiag)
+Sistema de IA para diagnóstico em armazenamento criogênico no SUS — telemetria e Machine Learning aplicados a tanques de gases medicinais, pensado a partir de anos de experiência real gerenciando esse tipo de infraestrutura em ambiente hospitalar.
+
+## 🎓 Formação
+
+- Gestão Pública (Estácio de Sá)
+- Pós-graduação em Administração Pública
+- Especializações pela FIOCRUZ e UFSC
+
+## 🛠️ Interesses técnicos
+
+- Ciência de dados e Inteligência Artificial
+- IoT e telemetria aplicada à saúde
+- Automação (Windows, PowerShell)
+- Geração de documentos via Node.js
+
+## 📫 Contato
+
+- GitHub: [@acelinodomingos](https://github.com/acelinodomingos)
