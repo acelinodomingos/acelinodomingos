@@ -13,12 +13,21 @@ Sistema de IA para diagnóstico em armazenamento criogênico no SUS — telemetr
 - Pós-graduação em Administração Pública
 - Especializações pela FIOCRUZ e UFSC
 
-## 🛠️ Interesses técnicos
+ 🛠️ Interesses técnicos
 
 - Ciência de dados e Inteligência Artificial
+- Rede neural convolucional (CNN) aplicada a imagem médica
+- Aplicação prática de modelos de redes neurais, via IA generativa e ferramentas de deep learning) para análise de exames médicos e documentos
 - IoT e telemetria aplicada à saúde
 - Automação (Windows, PowerShell)
 - Geração de documentos via Node.js
+- Consultoria e habilidades técnicas — resumo:
+- Automação Windows — scripts .bat/PowerShell
+- Geração de documentos — Word via Node.js
+- Linux / segurança de rede
+- Análise de exames médicos com IA/redes neurais — laboratoriais e de imagem
+- Análise documental jurídica com IA — contratos, cálculos de reajuste
+- Infraestrutura predial e sistemas críticos — gases medicinais e criogenia em área de saúde 
 
 ## 📫 Contato
 
