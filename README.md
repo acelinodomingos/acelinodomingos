@@ -1,34 +1,17 @@
-# Olá, sou Acelino Domingos Correia Filho 👋
+AI-CryoDiag
+Sistema de IA para diagnóstico e monitoramento de armazenamento criogênico de fármacos gasosos no SUS.
+🎯 Motivação
+Hospitais e institutos de saúde que armazenam fármacos gasosos em tanques criogênicos de alta capacidade enfrentam um desafio constante: monitorar nível e pressão em tempo real para evitar riscos de segurança e desperdício, além de otimizar a logística de reposição junto aos fornecedores.
+Esse projeto nasceu da experiência prática de gestão da rede de criogênicos e fármacos gasosos do Instituto Nacional de Câncer (INCA/RJ), onde um sistema de sensores e alarmes de nível crítico foi parcialmente implementado entre 2015 e 2019. O AI-CryoDiag retoma essa base para propor uma camada de inteligência artificial sobre a telemetria — indo do simples alarme para o diagnóstico preditivo.
+🧊 O que o projeto propõe
+•	Monitoramento de nível e pressão em tempo real dos tanques
+•	Detecção antecipada de riscos de segurança (vazamento, queda crítica de nível)
+•	Machine Learning para prever necessidade de reposição e reduzir custos logísticos
+•	Foco em unidades de saúde pública (SUS)
+🚧 Status
+Projeto em desenvolvimento / conceito — baseado em experiência real de campo em gestão hospitalar.
+🛠️ Stack
+<!-- Vamos, preencha aqui as tecnologias que você está usando ou pretende usar (Python? Node? algum modelo de ML específico?) --> 
+👤 Autor
+Acelino Domingos Correia Filho — ex-gestor de fármacos gasosos e rede de criogênicos do INCA/RJ, hoje dedicado a Data Science e IA aplicada à saúde. ResearchGate
 
-Gestor público aposentado, com trajetória de anos na gestão de infraestrutura crítica em saúde — gases medicinais e redes criogênicas na área hospitalar (INCA/RJ, Ministério da Saúde). Hoje transformo essa vivência de campo em projetos de tecnologia aplicada à saúde pública.
-
-## 🚀 Projeto em destaque
-
-### [AI-CryoDiag](https://github.com/acelinodomingos/AI-CryoDiag)
-Sistema de IA para diagnóstico em armazenamento criogênico no SUS — telemetria e Machine Learning aplicados a tanques de gases medicinais, pensado a partir de anos de experiência real gerenciando esse tipo de infraestrutura em ambiente hospitalar.
-
-## 🎓 Formação
-
-- Gestão Pública (Estácio de Sá)
-- Pós-graduação em Administração Pública
-- Especializações pela FIOCRUZ e UFSC
-
- 🛠️ Interesses técnicos
-
-- Ciência de dados e Inteligência Artificial
-- Rede neural convolucional (CNN) aplicada a imagem médica
-- Aplicação prática de modelos de redes neurais, via IA generativa e ferramentas de deep learning) para análise de exames médicos e documentos
-- IoT e telemetria aplicada à saúde
-- Automação (Windows, PowerShell)
-- Geração de documentos via Node.js
-- Consultoria e habilidades técnicas — resumo:
-- Automação Windows — scripts .bat/PowerShell
-- Geração de documentos — Word via Node.js
-- Linux / segurança de rede
-- Análise de exames médicos com IA/redes neurais — laboratoriais e de imagem
-- Análise documental jurídica com IA — contratos, cálculos de reajuste
-- Infraestrutura predial e sistemas críticos — gases medicinais e criogenia em área de saúde 
-
-## 📫 Contato
-
-- GitHub: [@acelinodomingos](https://github.com/acelinodomingos)
