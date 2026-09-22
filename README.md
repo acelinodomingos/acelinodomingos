@@ -1,18 +1,24 @@
 # Olá, sou Acelino Domingos Correia Filho 👋
 
-Ex-gestor de fármacos gasosos e rede de criogênicos do **INCA/RJ** (Instituto Nacional de Câncer), hoje dedicado a **Data Science e Inteligência Artificial aplicada à saúde**.
+**Gestor Público Federal Aposentado (INCA/MS) | Consultor em IA Aplicada à Saúde, Redes e Segurança Linux**
 
-- 🎓 Gestão Pública (Estácio de Sá), pós-graduação em Administração Pública, especializações FIOCRUZ e UFSC
-- 🧪 Especialista em gases medicinais/industriais (O₂, N₂, N₂O) e telemetria de tanques criogênicos
-- 💻 Automação Windows (.bat, PowerShell), geração de documentos Word via Node.js/docx
-- 📍 Rio de Janeiro, Brasil
+---
 
-## 🚀 Projetos em destaque
+### 🏛️ Trajetória e Liderança no Serviço Público
+Nomeado por **Portaria Ministerial**, exerci o cargo de **Chefe de Manutenção Predial** da Divisão de Engenharia e Infraestrutura do INCA-RJ. 
 
-### [Simulador Didático Estilo SCADA — Gases Medicinais e Industriais](https://acelinodomingos.github.io/simulador-scada-tanques/)
-Simulador interativo (O₂, N₂, N₂O) com falhas, alarmes e procedimentos de emergência conforme ABNT NBR 12188, NR-13 e RDC 42/2010 ANVISA. Baseado na experiência real de gestão de gases medicinais e criogênicos no INCA/RJ.
+Fui o idealizador e líder na criação do **Núcleo de Gasotécnica do INCA**, uma iniciativa pioneira no âmbito do Ministério da Saúde. À frente desta equipe, viabilizei a modernização dos parques gasotécnicos (como nos Hospitais Centrais II e III) e conquistei investimentos e parcerias com empresas para o hospital, revertendo um cenário em que as unidades apenas recebiam recursos governamentais sem contrapartida de doação ou modernização.
 
-## 🔗 Links
+### 🚀 Atuação Atual: Tecnologia e Inovação
+Hoje, transformo essa vivência prática de campo e gestão de infraestrutura crítica em soluções de tecnologia. Atuo como consultor especializado em:
+- **Inteligência Artificial Aplicada à Saúde e Automação** (incluindo o desenvolvimento e aplicação da **PAFÚNCIA XI**)
+- **Administração de Redes**
+- **Segurança em Ambientes Linux**
 
-- 🔬 [ResearchGate](https://www.researchgate.net/profile/ACELINO_CORREIA_FILHO2)
-- 💼 [LinkedIn](https://br.linkedin.com/in/acelino-domingos-correia-filho-a1aa0266)
+### 📌 Projetos em Destaque
+- **[AI-CryoDiag](https://github.com/acelinodomingos/AI-CryoDiag)**: Sistema de IA para diagnóstico e monitoramento preditivo de armazenamento criogênico de fármacos gasosos no SUS. Baseado na minha experiência real de gestão da rede de criogênicos do INCA.
+
+---
+💡 *"Transformando telemetria e dados em segurança e eficiência para a saúde pública."*
+
+📫 **Contato e Publicações:** [ResearchGate](https://www.researchgate.net/profile/Acelino-Correia-Filho)
