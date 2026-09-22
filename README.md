@@ -11,7 +11,7 @@ Fui o idealizador e líder na criação do **Núcleo de Gasotécnica do INCA**, 
 
 ### 🚀 Atuação Atual: Tecnologia e Inovação
 Hoje, transformo essa vivência prática de campo e gestão de infraestrutura crítica em soluções de tecnologia. Atuo como consultor especializado em:
-- **Inteligência Artificial Aplicada à Saúde e Automação** (incluindo o desenvolvimento e aplicação da **PAFÚNCIA XI**)
+- **Inteligência Artificial Aplicada à Saúde e Automação** (incluindo o desenvolvimento e aplicação da inteligência artificial **PAFÚNCIA XI**)
 - **Administração de Redes**
 - **Segurança em Ambientes Linux**
 
