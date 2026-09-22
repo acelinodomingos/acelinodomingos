@@ -1,17 +1,18 @@
-AI-CryoDiag
-Sistema de IA para diagnóstico e monitoramento de armazenamento criogênico de fármacos gasosos no SUS.
-🎯 Motivação
-Hospitais e institutos de saúde que armazenam fármacos gasosos em tanques criogênicos de alta capacidade enfrentam um desafio constante: monitorar nível e pressão em tempo real para evitar riscos de segurança e desperdício, além de otimizar a logística de reposição junto aos fornecedores.
-Esse projeto nasceu da experiência prática de gestão da rede de criogênicos e fármacos gasosos do Instituto Nacional de Câncer (INCA/RJ), onde um sistema de sensores e alarmes de nível crítico foi parcialmente implementado entre 2015 e 2019. O AI-CryoDiag retoma essa base para propor uma camada de inteligência artificial sobre a telemetria — indo do simples alarme para o diagnóstico preditivo.
-🧊 O que o projeto propõe
-•	Monitoramento de nível e pressão em tempo real dos tanques
-•	Detecção antecipada de riscos de segurança (vazamento, queda crítica de nível)
-•	Machine Learning para prever necessidade de reposição e reduzir custos logísticos
-•	Foco em unidades de saúde pública (SUS)
-🚧 Status
-Projeto em desenvolvimento / conceito — baseado em experiência real de campo em gestão hospitalar.
-🛠️ Stack
-<!-- Vamos, preencha aqui as tecnologias que você está usando ou pretende usar (Python? Node? algum modelo de ML específico?) --> 
-👤 Autor
-Acelino Domingos Correia Filho — ex-gestor de fármacos gasosos e rede de criogênicos do INCA/RJ, hoje dedicado a Data Science e IA aplicada à saúde. ResearchGate
+# Olá, sou Acelino Domingos Correia Filho 👋
 
+Ex-gestor de fármacos gasosos e rede de criogênicos do **INCA/RJ** (Instituto Nacional de Câncer), hoje dedicado a **Data Science e Inteligência Artificial aplicada à saúde**.
+
+- 🎓 Gestão Pública (Estácio de Sá), pós-graduação em Administração Pública, especializações FIOCRUZ e UFSC
+- 🧪 Especialista em gases medicinais/industriais (O₂, N₂, N₂O) e telemetria de tanques criogênicos
+- 💻 Automação Windows (.bat, PowerShell), geração de documentos Word via Node.js/docx
+- 📍 Rio de Janeiro, Brasil
+
+## 🚀 Projetos em destaque
+
+### [Simulador Didático Estilo SCADA — Gases Medicinais e Industriais](https://acelinodomingos.github.io/simulador-scada-tanques/)
+Simulador interativo (O₂, N₂, N₂O) com falhas, alarmes e procedimentos de emergência conforme ABNT NBR 12188, NR-13 e RDC 42/2010 ANVISA. Baseado na experiência real de gestão de gases medicinais e criogênicos no INCA/RJ.
+
+## 🔗 Links
+
+- 🔬 [ResearchGate](https://www.researchgate.net/profile/ACELINO_CORREIA_FILHO2)
+- 💼 [LinkedIn](https://br.linkedin.com/in/acelino-domingos-correia-filho-a1aa0266)
