@@ -16,8 +16,12 @@ Hoje, transformo essa vivência prática de campo e gestão de infraestrutura cr
 - **Segurança em Ambientes Linux**
 
 ### 📌 Projetos em Destaque
-- **[AI-CryoDiag](https://github.com/acelinodomingos/AI-CryoDiag)**: Sistema de IA para diagnóstico e monitoramento preditivo de armazenamento criogênico de fármacos gasosos no SUS. Baseado na minha experiência real de gestão da rede de criogênicos do INCA.
 
+- **[Simulador SCADA - Gases Medicinais e Industriais](https://acelinodomingos.github.io/simulador-scada-tanques/)**  
+  Simulador didático interativo e funcional para monitoramento de tanques de O₂, N₂ e N₂O, demonstrando falhas e operações normais em tempo real.
+
+- **[AI-CryoDiag](https://github.com/acelinodomingos/AI-CryoDiag)**  
+  Sistema de IA para diagnóstico e monitoramento preditivo de armazenamento criogênico de fármacos gasosos no SUS. Baseado na minha experiência real de gestão da rede de criogênicos do INCA.
 ---
 💡 *"Transformando telemetria e dados em segurança e eficiência para a saúde pública."*
 
